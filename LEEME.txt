@@ -1,0 +1,9 @@
+ULTIMATE NIGHTMARE BY DN - SITIO WEB
+
+1. Abre index.html con doble clic para verlo en tu computador (todas las páginas están conectadas).
+2. Para ponerlo en tu dominio: sube TODO el contenido de esta carpeta (no la carpeta, su contenido) a tu hosting,
+   en la carpeta pública (public_html o similar). También sirve arrastrar la carpeta a Netlify Drop o Cloudflare Pages.
+3. Cuando tengas dominio, abre sitemap.xml y robots.txt y cambia TU-DOMINIO.com por tu dirección real.
+4. Para cambiar precios, nombres o descripciones: edita el texto en los archivos .html (busca el nombre de la pieza con Ctrl+F).
+   Los colores están al inicio de estilos.css. Los datos de contacto (315 838 6894) están en cada archivo .html y en app.js.
+5. Las redes sociales están en la sección "Redes" de cada página.

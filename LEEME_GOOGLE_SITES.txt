@@ -1,0 +1,25 @@
+ULTIMATE NIGHTMARE BY DN — SITIO COMPLETO
+
+Este paquete contiene el sitio web completo y sus recursos:
+- Páginas HTML: inicio, tienda, servicios, nosotros, preguntas, redes, contacto, galería, prendas, impresión 3D y fichas individuales del catálogo.
+- estilos.css: presentación visual y diseño adaptable.
+- scripts/app.js: funciones de búsqueda, filtros, ordenamiento, cotizador y contacto por WhatsApp.
+- imagenes/: imágenes originales del catálogo y fondos gráficos.
+- favicon.svg, sitemap.xml y robots.txt cuando corresponden.
+
+PARA PROBAR EN TU COMPUTADOR
+1. Extrae TODO el ZIP en una carpeta.
+2. Mantén la carpeta imagenes y scripts junto a los archivos HTML. No cambies los nombres.
+3. Abre index.html en Chrome para una vista rápida. Para probar todas las rutas como en un alojamiento web, sirve la carpeta con un servidor local estático.
+
+PARA GOOGLE SITES
+Google Sites no importa un proyecto HTML completo como su tema nativo. Para conservar todos los estilos, imágenes, rutas entre páginas y JavaScript:
+1. Publica esta carpeta completa en un alojamiento compatible con sitios estáticos.
+2. Comprueba que la URL pública HTTPS abre index.html y que también funcionan las imágenes y páginas internas.
+3. En Google Sites, usa Insertar > Insertar > Por URL y pega la URL pública.
+4. Ajusta el alto del bloque insertado y publica Google Sites.
+
+No basta con pegar el contenido de index.html en el cuadro de inserción: ese método no incorpora automáticamente los archivos CSS, JavaScript e imágenes locales.
+
+NOTA
+El formulario abre WhatsApp para preparar el mensaje. No existe un sistema de pagos ni una base de datos conectada salvo que se configure por separado. Los precios y datos de contacto deben revisarse antes de publicar.
